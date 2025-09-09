@@ -1,0 +1,5 @@
+{
+  "name": "Taifur's EduSys - Portal",
+  "description": "A comprehensive teacher-student portal built with React and Tailwind CSS for managing education efficiently. Features include a dynamic timetable, student progress tracking, feedback system, and role-based access for admins, teachers, and students.",
+  "requestFramePermissions": []
+}
